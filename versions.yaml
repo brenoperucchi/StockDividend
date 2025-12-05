@@ -1,17 +1,17 @@
 ea:
   name: StockDividendEA
-  current_version: "2.2.9"
+  current_version: "2.3.1"
   releases:
     - version: "2.2.9"
       date: "2025-12-05"
       file: "EA/StockDividendEA.ex5"
       download_url: "https://github.com/brenoperucchi/StockDividend/releases/download/v2.2.9/StockDividendEA.ex5"
-      sha256: ""
+      sha256: "9d140f40f828022888563c7ea88c8c9c3c21bf39590bf22735642945f6ba1adf"
       notes: "Fix CheckDividendWindow in HOLDING_SECOND for Dashboard"
 
 installer:
   name: StockInstaller
-  current_version: "1.0.0"
+  current_version: "2.3.1"
   releases:
     - version: "1.0.0"
       date: "2025-12-05"
