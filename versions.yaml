@@ -1,8 +1,9 @@
 ea:
   name: StockDividendEA
-  # EA is always latest from main branch, not tied to release versions
+  current_version: "2.3.4"
   download_url: "https://raw.githubusercontent.com/brenoperucchi/StockDividend/main/EA/StockDividendEA.ex5"
   file: "EA/StockDividendEA.ex5"
+  sha256: "615a0ab02ce35b7a77ae8a37d5b33e362e3a2023d04bcc43d9c5142c1638c781"
 
 installer:
   name: StockInstaller
