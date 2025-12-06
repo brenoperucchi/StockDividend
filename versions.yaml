@@ -1,19 +1,10 @@
 ea:
   name: StockDividendEA
-  current_version: "2.3.2"
-  releases:
-    - version: "2.3.1"
-      date: "2025-12-05"
-      file: "EA/StockDividendEA.ex5"
-      download_url: "https://github.com/brenoperucchi/StockDividend/releases/download/v2.3.1/StockDividendEA.ex5"
-      sha256: "64552ecdc7938fdfde950120427ee74a44ccaf9fdbb814e225f63768a04e0fb0"
-      notes: "Fix P&L Dashboard filtrado por magic number"
+  # EA is always latest from main branch, not tied to release versions
+  download_url: "https://raw.githubusercontent.com/brenoperucchi/StockDividend/main/EA/StockDividendEA.ex5"
+  file: "EA/StockDividendEA.ex5"
 
 installer:
   name: StockInstaller
-  current_version: "2.3.2"
-  releases:
-    - version: "1.0.0"
-      date: "2025-12-05"
-      file: "Installer/StockInstaller.exe"
-      download_url: "https://github.com/brenoperucchi/StockDividend/releases/download/v2.3.1/StockInstaller.exe"
+  current_version: "1.0.0"
+  download_url: "https://github.com/brenoperucchi/StockDividend/releases/download/v1.0.0/StockInstaller.exe"
