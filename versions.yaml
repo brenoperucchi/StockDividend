@@ -7,6 +7,6 @@ ea:
 
 installer:
   name: StockInstaller
-  current_version: "1.0.1"
-  download_url: "https://github.com/brenoperucchi/StockDividend/releases/download/v1.0.1/StockInstaller.exe"
-  sha256: "64e118cf27c9532463024251bac83a6409f40bedc818f2164aa4151613918617"
+  current_version: "1.0.2"
+  download_url: "https://github.com/brenoperucchi/StockDividend/releases/download/v1.0.2/StockInstaller.exe"
+  sha256: "4649ee816d702ab34dd0728965e66d548dbea00249e5a9119aaed24a2a3c6b15"
