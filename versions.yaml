@@ -3,7 +3,7 @@ ea:
   current_version: "2.5.0"
   download_url: "https://raw.githubusercontent.com/brenoperucchi/StockDividend/main/EA/StockDividendEA.ex5"
   file: "EA/StockDividendEA.ex5"
-  sha256: "615a0ab02ce35b7a77ae8a37d5b33e362e3a2023d04bcc43d9c5142c1638c781"
+  sha256: "5d35b03073c2b10ab5959137ecf18c502c263738dbba0abf054a5432b8dbf1a1"
 
 installer:
   name: StockInstaller
